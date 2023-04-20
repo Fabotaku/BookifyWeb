@@ -1,0 +1,5 @@
+-El botón de inicio de sesión no lleva al dashboard se usó un <a>
+-El inicio de sesión funciona sin meter una cuente (conectar con la bd)
+-Cerrar sesión solo devuelve el login.html, no cierra la sesión como tal
+-Hacer el carrusel para los libros, no navBar horizontal
+
